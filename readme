@@ -1,0 +1,20 @@
+💻 Desafio Finalizado: Simulação de Sistema Bancário em Java
+Hoje finalizei mais um desafio prático durante meus estudos em Java! Desenvolvi uma aplicação simples de terminal que simula um sistema bancário com operações básicas como consulta de saldo, recebimento de valores e transferência.
+
+✅ O que coloquei em prática:
+Criação de variáveis para armazenar informações do cliente (nome, tipo de conta e saldo).
+
+Uso da classe Scanner para capturar entradas do usuário pelo terminal.
+
+Implementação de estrutura condicional switch para controlar o menu de opções.
+
+Validações de entrada com condições if/else para garantir valores positivos e saldo suficiente.
+
+Operações básicas com variáveis do tipo double para representar valores monetários.
+
+Uso de método return para encerrar a aplicação de forma limpa ao escolher a opção de sair.
+
+Esse projeto me ajudou a consolidar os fundamentos de entrada de dados, lógica condicional e manipulação de valores em Java — de forma simples, mas eficiente.
+
+📁 Código disponível neste repositório.
+🔁 Em breve pretendo adicionar melhorias, como um menu interativo em loop e mais funcionalidades!
